@@ -44,7 +44,7 @@ class Game{};
 
 int main()
 {
-  cout << "hello world. classes added and 2 objects" << endl;
+  cout << "hello world. classes added and 2 objects and git" << endl;
 
   Card cart1('b', '6');
   Card cart2('p', '7');
